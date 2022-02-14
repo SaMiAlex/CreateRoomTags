@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Revit API\CreateRoomTags"</Assembly>
+		<AddInId>575E5C60-5226-4C9B-9847-4B14F732CB05</AddInId>
+		<FullClassName>CreateRoomTags.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание меток для помещений</Text>
+	</AddIn>
+</RevitAddIns>
+
+	
